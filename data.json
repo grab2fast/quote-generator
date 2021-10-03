@@ -48,5 +48,15 @@
             "id": 10,
             "quote": "Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.",
             "author": "Joss Whedon"
-      }
+      },
+      {
+            "id": 11,
+            "quote": "Set your goals high, and don't stop till you get there.",
+            "author": "Bo Jackson"
+      },
+      {
+            "id": 12,
+            "quote": "Problems are not stop signs, they are guidelines.",
+            "author": "Robert H. Schuller"
+      },
 ]
