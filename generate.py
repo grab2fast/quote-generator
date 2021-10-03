@@ -2,6 +2,7 @@ import json
 import random
 
 
+# The function prints random quotes after being called
 def get_random_quote():
     with open('data.json') as data_file:
         data = json.load(data_file)
